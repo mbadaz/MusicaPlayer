@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Musica Player</string>
+    <string name="library_label">Music Library</string>
+    <string name="now_playing_label">Now Playing</string>
+    <string name="album_image_description">Album Art</string>
+    <string name="notification1">App needs storage access to play songs!/nPlease enable storage permission in/nApps settings and restart</string>
+</resources>
